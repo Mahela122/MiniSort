@@ -1,0 +1,14 @@
+# Python & virtual environment
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Build & packaging intermediate artifacts
+build/
+dist/
+installer/Output/
+
+# Local runtime fallback data
+.minisort_data/
