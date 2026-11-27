@@ -1,0 +1,10 @@
+﻿Contact ID,Full Name,City,Postal Code,Phone Number,Notes
+001,  alice   smith , new york ,02108,0712345678,
+002,BOB  JONES,boston,01001,0712345679,
+001,  alice   smith , new york ,02108,0712345678,
+,,,,,
+003,charlie brown,  chicago  ,60601,,
+004,Diana   Prince,seattle,98101,0712345681,
+   ,   ,   ,   ,   ,
+002,BOB  JONES,boston,01001,0712345679,
+005,  evan wright  ,,02115,0712345682,
